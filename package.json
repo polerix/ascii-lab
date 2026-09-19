@@ -15,7 +15,7 @@
     "preview": "vite preview"
   },
   "devDependencies": {
-    "vite": "^7.1.11"
+    "vite": "^8.3.0"
   },
   "dependencies": {
     "@fontsource/coiny": "^5.2.7",
