@@ -19,7 +19,7 @@
   },
   "dependencies": {
     "@fontsource/coiny": "^5.2.7",
-    "gradient-gl": "^1.5.0",
+    "gradient-gl": "^2.0.5",
     "iconify-icon": "^3.0.1"
   }
 }
