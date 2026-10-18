@@ -40,7 +40,17 @@ npm run build
 ---
 *Be like water, my friend. It can flow or it can crash.* 🌊
 
-
 ## Deployment & Repository Status
-{}
 
+- **Standardized Name**: `ascii-lab`
+- **Remote Origin**: `https://github.com/polerix/ascii-lab.git`
+- **License Level**: `MIT` ([`LICENSE`](LICENSE))
+- **Security Policy**: [`SECURITY.md`](SECURITY.md)
+- **GitHub Actions**: ✅ Active
+- **Last Compliance Audit**: `2026-10-18`
+
+### GitHub CleanUp Log
+- **Unused / Archive / Cache Items Moved to `/Volumes/Clay/GitHubCleanUp/ascii-lab/`**: 3 item(s) (304 files, 28.14 MB)
+  - `dist` — Untracked local build directory (5 file(s), 149.9 KB)
+  - `node_modules` — Local dependency/build cache (node_modules) (298 file(s), 27.98 MB)
+  - `.DS_Store` — OS metadata file (1 file(s), 6.0 KB)

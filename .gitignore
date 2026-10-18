@@ -26,3 +26,9 @@ node_modules/
 dist/
 build/
 .idea/
+
+# Compliance hygiene
+.venv/
+venv/
+__pycache__/
+.env
