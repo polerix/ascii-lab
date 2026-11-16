@@ -11,7 +11,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite --host",
-    "build": "vite build --base=/ascii-lab/",
+    "build": "vite build",
     "preview": "vite preview"
   },
   "devDependencies": {
